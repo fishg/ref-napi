@@ -17,5 +17,4 @@ npm-debug.log
 coverage
 build
 node-addon-api
-
-prebuilds/
+.DS_Store
